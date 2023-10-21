@@ -27,5 +27,13 @@
   ],
   "deploy": {
     "message": "Site Update."
-  }
+  },
+
+  
+    "style": {
+      "bootstrapTheme": "bootswatch-minty"
+    }
+  
+  
+  
 }
